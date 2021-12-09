@@ -76,7 +76,7 @@ testDuplicates();
        arr[0] = 8;
        arr[1] = 9;
        arr[2] = -7;
-       arr[3] = 10;
+       arr[3] = 10; 
        arr[4] = -2;
 
        arr = sel.basicSelectionSort(arr);
